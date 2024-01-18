@@ -34,8 +34,8 @@
 
 ###
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-0bceaf?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://vtran.org/))
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/viinh/))
+[![portfolio](https://img.shields.io/badge/my_portfolio-0bceaf?style=for-the-badge&logo=ko-fi&logoColor=white)]((https://vtran.org/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/viinh/))
 [![instagram](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v_iinh/)
 [![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/838192515458138172)
 [![gmail](https://img.shields.io/badge/Email-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officiallyvt@gmail.com)
