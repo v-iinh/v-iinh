@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Feel free to find out more about me on my portfolio (https://vtran.org/)! I'm always on the lookout for opportunities to improve my skills and contribute to impactful projects. If you share my passion for technology and collaboration, let's stay in touch.</p>
+<p align="center">I'm an aspiring software developer, always eager for opportunities to enhance my skills and contribute to impactful projects. If you share my passion for technology and collaboration, let's stay in touch!</p>
 
 ###
 
@@ -18,22 +18,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
+
+  [![javascript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)]()
+  [![css3](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=css3&logoColor=white)]()
+  [![html5](https://img.shields.io/badge/html5-f06529?style=for-the-badge&logo=html5&logoColor=white)]()
+  [![react](https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=black)]()
+  [![bootstrap](https://img.shields.io/badge/bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+  [![blender](https://img.shields.io/badge/blender-ea7600?style=for-the-badge&logo=blender&logoColor=white)]()
+  [![figma](https://img.shields.io/badge/figma-0acf83?style=for-the-badge&logo=figma&logoColor=white)]()
+  [![firebase](https://img.shields.io/badge/firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white)]()
 
 ###
 
@@ -41,19 +34,10 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/viinh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/v_iinh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/838192515458138172" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="mailto:officiallyvt@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+[![portfolio](https://img.shields.io/badge/my_portfolio-0bceaf?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://vtran.org/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/viinh/))
+[![instagram](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v_iinh/)
+[![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/838192515458138172)
+[![gmail](https://img.shields.io/badge/Email-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officiallyvt@gmail.com)
 
 ###
