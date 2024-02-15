@@ -42,6 +42,6 @@
 [![instagram](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v_iinh/)
 [![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/838192515458138172)
 [![gmail](https://img.shields.io/badge/Email-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officiallyvt@gmail.com)
-[![leetcode](https://img.shields.io/badge/leetcode-fcc34a?style=for-the-badge&logo=leetcode&logoColor=black)](mailto:officiallyvt@gmail.com)
+[![leetcode](https://img.shields.io/badge/leetcode-fcc34a?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/v_iinh/)
 
 ###
