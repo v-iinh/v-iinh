@@ -30,6 +30,7 @@
   [![blender](https://img.shields.io/badge/blender-ea7600?style=for-the-badge&logo=blender&logoColor=white)]()
   [![figma](https://img.shields.io/badge/figma-0acf83?style=for-the-badge&logo=figma&logoColor=white)]()
   [![firebase](https://img.shields.io/badge/firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white)]()
+  [![vim](https://img.shields.io/badge/vim-7EBF50?style=for-the-badge&logo=vim&logoColor=white)]()
 
 ###
 
