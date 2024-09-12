@@ -31,6 +31,7 @@
   [![figma](https://img.shields.io/badge/figma-0acf83?style=for-the-badge&logo=figma&logoColor=white)]()
   [![firebase](https://img.shields.io/badge/firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white)]()
   [![vim](https://img.shields.io/badge/vim-7EBF50?style=for-the-badge&logo=vim&logoColor=white)]()
+  [![tailwind](https://img.shields.io/badge/tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
 
 ###
 
